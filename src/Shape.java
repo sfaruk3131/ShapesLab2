@@ -12,7 +12,7 @@ public abstract class Shape {
 
     public String toString()
     {
-        return "I am a" + type + ".";
+        return "I am a " + type + ".";
     }
 
 }
